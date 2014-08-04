@@ -1,0 +1,44 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: grey;
+}
+h1 {
+  text-align: center;
+  font-size: 4em;
+  color: #e1e145;
+}
+.wrapper div {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+}
+
+.profileCard {
+  background-color: #d4d0b6;
+  border: 1px solid black;
+}
+
+.profileCard img {
+  width: 200px;
+  height: 200px;
+}
+
+.profileCard h3 {
+  background-color: grey;
+  border-radius: 10px;
+}
+
+.profileCard ul {
+  padding: 0px;
+  background-color: grey;
+  border-radius: 10px;
+}
+
+.profileCard li {
+  list-style-type: none;
+}
+
+.profileCard a {
+  text-decoration: none;
+}
